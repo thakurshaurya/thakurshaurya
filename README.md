@@ -11,7 +11,7 @@ I actively work on projects to apply what I learn and improve my problem-solving
 <p align="left">
 <a href="https://linkedin.com/in/shaurya-thakur-880912327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-thakur-880912327" height="30" width="40" /></a>
 <a href="https://instagram.com/_.shaurya7._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shaurya7._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/Shaurya Thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mzpcumknzq/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/mZPcuMKNzq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mzpcumknzq/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
