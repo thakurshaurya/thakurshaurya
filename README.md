@@ -15,9 +15,9 @@ I am a B.Tech Computer Science student focused on becoming a software developer.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thakurshaurya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
----
 
-[![](https://komarev.com/ghpvc/?username=thakurshaurya&icon=3&color=1)](https://visitcount.itsvg.in)
+
+<!--[![](https://komarev.com/ghpvc/?username=thakurshaurya&icon=3&color=1)](https://visitcount.itsvg.in)-->
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thakurshaurya2007) 
