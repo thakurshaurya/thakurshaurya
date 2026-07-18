@@ -16,11 +16,13 @@ I am a B.Tech Computer Science student focused on becoming a software developer.
 
 </div>
 
+## 👀 Profile Views:
+<div>
+  <img src="https://komarev.com/ghpvc/?username=thakurshaurya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-<!--[![](https://komarev.com/ghpvc/?username=thakurshaurya&icon=3&color=1)](https://visitcount.itsvg.in)-->
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thakurshaurya2007) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thakurshaurya2007) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
