@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech Computer Science Engineer focused on becoming a software developer. I have practical experience in C ,Java ,Python, Data Structures and Algorithms using C++, and modern web technologies such as HTML, CSS ,JavaScript and there Frameworks.<br><br>I actively work on projects to apply what I learn and improve my problem-solving and development skills. I enjoy building things from scratch and constantly pushing myself to learn more and write better code.
+I am a Computer Science Engineer focused on becoming a software developer. I have practical experience in C ,Java ,Python, Data Structures and Algorithms using C++, and modern web technologies such as HTML, CSS ,JavaScript and there Frameworks.<br><br>I actively work on projects to apply what I learn and improve my problem-solving and development skills. I enjoy building things from scratch and constantly pushing myself to learn more and write better code.
 
 
 ## 🌐 Socials:
